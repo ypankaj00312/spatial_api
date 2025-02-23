@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/  # Or venv/ if you named it differently
+venv/
+
+# VS Code (or other IDE)
+.vscode/
